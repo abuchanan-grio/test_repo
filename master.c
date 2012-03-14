@@ -1,3 +1,2 @@
 This is a file on the master branch.
-
-resetting all this
+With a new change.
