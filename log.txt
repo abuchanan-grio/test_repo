@@ -1,0 +1,1348 @@
+Warning: AllowScriptAccess='never' found in HTML.  This setting is ineffective and deprecated.  See http://www.adobe.com/go/allowscriptaccess for details.
+BannerUnit instantiated.
+BaseStandard BaseStandard BaseStandard BaseStandard BaseStandard 
+init -> [object Object]
+_level0.bigTag2.buttonCTA
+_paramScope_level0
+_paramScope_level0.tagContainer_ribbon
+_paramScope_level0.tagContainer_box
+Warning: 'gs' has no property '_visible'
+animating frame0...
+animating frame1...
+animating frame2...
+animating frame3...
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+Warning: kill is not a function
+bigTag() _level0.bigTag1
+bigTag() _level0.bigTag2
+finalStillFrame
+11706
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i3.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i3.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i4.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i4.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i4.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i4.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i4.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i4.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Reference to undeclared property, 'soundfile'
+-- Probably a case mismatch.
+Warning: Reference to undeclared property, 'soundfile'
+-- Probably a case mismatch.
+Warning: Domain i3.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i3.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+[BasicModel]property not defined in Model:remote_addr
+[BasicModel]property not defined in Model:remote_addr
+root | INFO | Wed Apr 4 12:53:31 GMT-0700 2012 | Template container version:Version: 20120307
+root | INFO | Wed Apr 4 12:53:31 GMT-0700 2012 | Initializing template container...
+root | INFO | Wed Apr 4 12:53:31 GMT-0700 2012 | Processing parameters...
+root | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Template parameters XML:
+<TEMPLATE_PARAMETERS>
+  <TEMPLATE_WIDTH>160</TEMPLATE_WIDTH>
+  <TEMPLATE_HEIGHT>600</TEMPLATE_HEIGHT>
+  <TEMPLATE_URL>http://pagead2.googlesyndication.com/pagead/gadgets/elegant_V4/elegant_V4_spec_160_600.swf</TEMPLATE_URL>
+  <TEMPLATE_AIT_URL>http://googleads.g.doubleclick.net/pagead/conversion/?ai=BCem1uKZ8T5HhNcKLlALGh_yzA8vRuKsDq4GesE_AjbcBwMhQEAEYASDXiuoDOABQ-J31_gNgyfb4hsijoBmgAa3cos0DsgERd3d3LmNvZGVtdW5jaC5jb226AQoxNjB4NjAwX2FzyAEE2gFBaHR0cDovL3d3dy5jb2RlbXVuY2guY29tL21vZHVsZS90cmVuZC90YWctc2VhcmNoLnBocD9xPU9wZW5Tb2NpYWy4AhioAwHoA5EE6AMT9QMACIDA9QMAAAAQoAYZ&amp;sigh=7f44AImRF1E&amp;label=_AITNAME_&amp;value=_AITVALUE_</TEMPLATE_AIT_URL>
+  <TEMPLATE_ELEMENT element_name="adData" index="0">
+    <TEMPLATE_FIELD field_name="product1MCImage">http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgMDO_avkMBCIARhqMgjzQuz8ckf9kw</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="clickTFTextColor">0xffffff</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="clickTFTextFont">gill</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="clickTFText">Get Started</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFTextColor">0x666666</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFTextFont">arialbd</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFText">Focus on your app, leave the rest to us</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text1TFTextColor">0x3369e8</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text1TFTextFont">nimbus_b</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text1TFText">Google App Engine</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="clickTFTextFontName">_gill</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="clickTFTextFontUrl">http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text1TFTextFontName">_nimbus_b</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text1TFTextFontUrl">http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFTextFontName">_arialbd</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFTextFontUrl">http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="displayUrl">developers.google.com/appengine</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="destinationUrl">http://developers.google.com/appengine</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFTextSize">18</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFTextHeight">61</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFTextWidth">144.95</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFTextY">0</TEMPLATE_FIELD>
+    <TEMPLATE_FIELD field_name="text2TFTextX">0</TEMPLATE_FIELD>
+  </TEMPLATE_ELEMENT>
+  <CLICK_URL_PREFIX>http://googleads.g.doubleclick.net/aclk?sa=l&amp;ai=BCem1uKZ8T5HhNcKLlALGh_yzA8vRuKsDq4GesE_AjbcBwMhQEAEYASDXiuoDOABQ-J31_gNgyfb4hsijoBmgAa3cos0DsgERd3d3LmNvZGVtdW5jaC5jb226AQoxNjB4NjAwX2FzyAEE2gFBaHR0cDovL3d3dy5jb2RlbXVuY2guY29tL21vZHVsZS90cmVuZC90YWctc2VhcmNoLnBocD9xPU9wZW5Tb2NpYWy4AhioAwHoA5EE6AMT9QMACIDA9QMAAAAQoAYZ&amp;num=1&amp;sig=AOD64_3WE1SwSn5TZN24wrIe8qfOnvMa9A&amp;client=ca-pub-2324247911517425&amp;adurl=</CLICK_URL_PREFIX>
+  <AIT_URL>http://googleads.g.doubleclick.net/pagead/conversion/?ai=BCem1uKZ8T5HhNcKLlALGh_yzA8vRuKsDq4GesE_AjbcBwMhQEAEYASDXiuoDOABQ-J31_gNgyfb4hsijoBmgAa3cos0DsgERd3d3LmNvZGVtdW5jaC5jb226AQoxNjB4NjAwX2FzyAEE2gFBaHR0cDovL3d3dy5jb2RlbXVuY2guY29tL21vZHVsZS90cmVuZC90YWctc2VhcmNoLnBocD9xPU9wZW5Tb2NpYWy4AhioAwHoA5EE6AMT9QMACIDA9QMAAAAQoAYZ&amp;sigh=7f44AImRF1E&amp;label=_AITNAME_&amp;value=_AITVALUE_</AIT_URL>
+  <TARGET_IN_NEW_WINDOW>true</TARGET_IN_NEW_WINDOW>
+  <DISPLAY_BORDER>true</DISPLAY_BORDER>
+  <REPLAY_ELIGIBLE>true</REPLAY_ELIGIBLE>
+  <DEFAULT_FLASH_ELEMENT_ID>google_flash_embed</DEFAULT_FLASH_ELEMENT_ID>
+</TEMPLATE_PARAMETERS>
+root | INFO | Wed Apr 4 12:53:31 GMT-0700 2012 | Finished processing parameters.
+root | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Setting logger name to elegant_V4_spec_160_600.swf::instance0
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:31 GMT-0700 2012 | Post load template container called.
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:31 GMT-0700 2012 | Loading primary template...
+elegant_V4_spec_160_600.swf::instance0::TemplateLoadTracker | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Adding required tracked resource [url=http://pagead2.googlesyndication.com/pagead/gadgets/elegant_V4/elegant_V4_spec_160_600.swf]
+elegant_V4_spec_160_600.swf::instance0::TemplateLoadTracker | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Adding required tracked resource [url=http://pagead2.googlesyndication.com/pagead/gadgets/elegant_V4/elegant_V4_spec_160_600.xml]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Resizing template container (initial)...
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Template container resized: [stageWidth = 160, stageHeight = 600, templateWidth = 160, templateHeight = 600]
+elegant_V4_spec_160_600.swf::instance0::TemplateLoadTracker | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Required resource load open [url=http://pagead2.googlesyndication.com/pagead/gadgets/elegant_V4/elegant_V4_spec_160_600.xml, status=[Event type="open" bubbles=false cancelable=false eventPhase=2]]
+elegant_V4_spec_160_600.swf::instance0::TemplateLoadTracker | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Required resource load open [url=http://pagead2.googlesyndication.com/pagead/gadgets/elegant_V4/elegant_V4_spec_160_600.swf, status=[Event type="open" bubbles=false cancelable=false eventPhase=2]]
+elegant_V4_spec_160_600.swf::instance0::TemplateLoadTracker | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Required resource load http status [url=http://pagead2.googlesyndication.com/pagead/gadgets/elegant_V4/elegant_V4_spec_160_600.xml, status=[HTTPStatusEvent type="httpStatus" bubbles=false cancelable=false eventPhase=2 status=200 responseURL=null]]
+elegant_V4_spec_160_600.swf::instance0::TemplateLoadTracker | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Required resource load completed [url=http://pagead2.googlesyndication.com/pagead/gadgets/elegant_V4/elegant_V4_spec_160_600.xml]
+elegant_V4_spec_160_600.swf::instance0::TemplateLoadTracker | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Required resource load http status [url=http://pagead2.googlesyndication.com/pagead/gadgets/elegant_V4/elegant_V4_spec_160_600.swf, status=[HTTPStatusEvent type="httpStatus" bubbles=false cancelable=false eventPhase=2 status=200 responseURL=null]]
+elegant_V4_spec_160_600.swf::instance0::TemplateLoadTracker | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Required resource load completed [url=http://pagead2.googlesyndication.com/pagead/gadgets/elegant_V4/elegant_V4_spec_160_600.swf]
+elegant_V4_spec_160_600.swf::instance0::TemplateLoadTracker | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | All required resources received.
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::TemplateLoader | TRACE | Wed Apr 4 12:53:31 GMT-0700 2012 | Template XML:
+<?xml version="1.0" encoding="UTF-8"?>
+<TEMPLATE_AD strip_visible_url="true" replay_eligible="true">
+  <DYNAMIC_TEXT template_id="clickTFText" swf_id="clickTF" reposition_eligible="true" resizing_eligible="true">
+    <COLOR template_id="clickTFTextColor"/>
+    <FONT>
+      <NAME template_id="clickTFTextFontName" default="_futurabc"/>
+      <URL template_id="clickTFTextFontUrl" default="futurabc_LATIN.swf"/>
+      <SIZE template_id="clickTFTextSize"/>
+    </FONT>
+    <POSITION>
+      <X template_id="clickTFTextX"/>
+      <Y template_id="clickTFTextY"/>
+    </POSITION>
+    <DIMENSION>
+      <WIDTH template_id="clickTFTextWidth"/>
+      <HEIGHT template_id="clickTFTextHeight"/>
+    </DIMENSION>
+  </DYNAMIC_TEXT>
+  <DYNAMIC_TEXT template_id="text1TFText" swf_id="text1TF" reposition_eligible="true" resizing_eligible="true">
+    <COLOR template_id="text1TFTextColor"/>
+    <FONT>
+      <NAME template_id="text1TFTextFontName" default="_futurabc"/>
+      <URL template_id="text1TFTextFontUrl" default="futurabc_LATIN.swf"/>
+      <SIZE template_id="text1TFTextSize"/>
+    </FONT>
+    <POSITION>
+      <X template_id="text1TFTextX"/>
+      <Y template_id="text1TFTextY"/>
+    </POSITION>
+    <DIMENSION>
+      <WIDTH template_id="text1TFTextWidth"/>
+      <HEIGHT template_id="text1TFTextHeight"/>
+    </DIMENSION>
+  </DYNAMIC_TEXT>
+  <DYNAMIC_TEXT template_id="text2TFText" swf_id="text2TF" reposition_eligible="true" resizing_eligible="true">
+    <COLOR template_id="text2TFTextColor"/>
+    <FONT>
+      <NAME template_id="text2TFTextFontName" default="_futurabc"/>
+      <URL template_id="text2TFTextFontUrl" default="futurabc_LATIN.swf"/>
+      <SIZE template_id="text2TFTextSize"/>
+    </FONT>
+    <POSITION>
+      <X template_id="text2TFTextX"/>
+      <Y template_id="text2TFTextY"/>
+    </POSITION>
+    <DIMENSION>
+      <WIDTH template_id="text2TFTextWidth"/>
+      <HEIGHT template_id="text2TFTextHeight"/>
+    </DIMENSION>
+  </DYNAMIC_TEXT>
+  <DYNAMIC_TEXT template_id="displayUrl" swf_id="urlTF" reposition_eligible="true" resizing_eligible="true">
+    <COLOR template_id="displayUrlColor"/>
+    <FONT>
+      <NAME template_id="displayUrlFontName" default="_alt_arial"/>
+      <URL template_id="displayUrlFontUrl" default="arial_LATIN_ALT.swf"/>
+      <SIZE template_id="displayUrlSize"/>
+    </FONT>
+    <POSITION>
+      <X template_id="displayUrlX"/>
+      <Y template_id="displayUrlY"/>
+    </POSITION>
+    <DIMENSION>
+      <WIDTH template_id="displayUrlWidth"/>
+      <HEIGHT template_id="displayUrlHeight"/>
+    </DIMENSION>
+  </DYNAMIC_TEXT>
+  <DYNAMIC_IMAGE template_id="product1MCImage" swf_id="product1MC" default="elegant_V4/resource/product1_175_106.png" reposition_eligible="true" resizing_eligible="true">
+    <POSITION>
+      <X template_id="product1MCImageX"/>
+      <Y template_id="product1MCImageY"/>
+    </POSITION>
+    <DIMENSION>
+      <WIDTH template_id="product1MCImageWidth"/>
+      <HEIGHT template_id="product1MCImageHeight"/>
+    </DIMENSION>
+  </DYNAMIC_IMAGE>
+</TEMPLATE_AD>
+
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:31 GMT-0700 2012 | Registering dynamic elements...
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:31 GMT-0700 2012 | Loading font [url=http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:31 GMT-0700 2012 | Registered dynamic element [swfId = clickTF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Registered dynamic element [swfId = text1TF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Registered dynamic element [swfId = text2TF]
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Loading font [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Registered dynamic element [swfId = urlTF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicImageElement::product1MC | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Loading image [swfId = product1MC, url = http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgMDO_avkMBCIARhqMgjzQuz8ckf9kw]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Registered dynamic element [swfId = product1MC]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ, bytesLoaded=0, bytesTotal=4895]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ, bytesLoaded=1009, bytesTotal=4895]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=0, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=963, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ, bytesLoaded=1009, bytesTotal=4895]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ, bytesLoaded=4895, bytesTotal=4895]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=963, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=2381, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF loaded [url=http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ]
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Fonts registered [url=http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgICQ4b-q0QEQ____________ARj___________8BMghHV9eehGTmVQ]
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | A font request has been processed.
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=2381, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=4096, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=4096, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=6932, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=6932, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=8192, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=8192, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=9610, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=9610, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=15282, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=15282, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=18118, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=18118, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=20954, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=20954, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=22372, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=22372, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=25208, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=25208, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=26626, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=26626, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=28044, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=28044, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | Font SWF load progress [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf, bytesLoaded=31958, bytesTotal=31958]
+elegant_V4_spec_160_600.swf::instance0 | WARNING | Wed Apr 4 12:53:32 GMT-0700 2012 | SWF fonts have not been registered yet, calling registerSwfFonts() [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf]
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Fonts registered [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf]
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | A font request has been processed.
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::TemplateLoader | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Displaying loaded template...
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | onAdded() called [object name=templateSwfLoader]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | onAdded() called [object name=dynamicElementManager]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:32 GMT-0700 2012 | Updating all dynamic elements
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | onAdded() called [object name=product1MC_bitmap]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:32 GMT-0700 2012 | onAdded() called [object name=instance26]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=templateBorder]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=instance28]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicImageElement::product1MC | INFO | Wed Apr 4 12:53:33 GMT-0700 2012 | Loaded image [swfId = product1MC, url = http://pagead2.googlesyndication.com/pagead/imgad?id=CICAgMDO_avkMBCIARhqMgjzQuz8ckf9kw]
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:33 GMT-0700 2012 | Font SWF loaded [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf]
+elegant_V4_spec_160_600.swf::instance0 | WARNING | Wed Apr 4 12:53:33 GMT-0700 2012 | Font already registered [url=http://pagead2.googlesyndication.com/pagead/gadgets/fonts/arial_LATIN_ALT.swf]
+elegant_V4_spec_160_600.swf::instance0 | INFO | Wed Apr 4 12:53:33 GMT-0700 2012 | A font request has been processed.
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=instance29]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=urlTF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:33 GMT-0700 2012 | Updating dynamic element [swfId = urlTF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=instance30]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=product1MC]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:33 GMT-0700 2012 | Updating dynamic element [swfId = product1MC]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=product1MC_bitmap]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=instance32]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=clickTF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:33 GMT-0700 2012 | Updating dynamic element [swfId = clickTF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:33 GMT-0700 2012 | onAdded() called [object name=instance31]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:34 GMT-0700 2012 | onAdded() called [object name=text1TF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:34 GMT-0700 2012 | Updating dynamic element [swfId = text1TF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:34 GMT-0700 2012 | onAdded() called [object name=instance38]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:34 GMT-0700 2012 | onAdded() called [object name=text2TF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | INFO | Wed Apr 4 12:53:34 GMT-0700 2012 | Updating dynamic element [swfId = text2TF]
+elegant_V4_spec_160_600.swf::instance0::com.google.ads.templates::DynamicElementManager | TRACE | Wed Apr 4 12:53:34 GMT-0700 2012 | onAdded() called [object name=instance41]
+Warning: Reference to undeclared variable, 'cgyuSP'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'google'
+Warning: 'google' has no property 'youtube'
+Warning: 'youtube' has no property 'IBroadcaster'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'IMessages'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'GenieMenuThumbnailHolder'
+Warning: 'com' has no property 'TweenLite'
+Warning: Reference to undeclared variable, 'ArrayParam'
+Warning: 'com' has no property 'constants'
+Warning: 'constants' has no property 'EventLabel'
+Warning: 'com' has no property 'FunctionUtils'
+Warning: 'com' has no property 'IVideoControl'
+Warning: 'com' has no property 'ModuleEvent'
+Warning: 'com' has no property 'IPlayerModuleMediator'
+Warning: 'com' has no property 'event'
+Warning: 'event' has no property 'EventBroadcaster'
+Warning: 'com' has no property 'RestRequest'
+Warning: 'com' has no property 'url'
+Warning: 'url' has no property 'YouTubeUtils'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'VideoInformationSmall'
+Warning: 'com' has no property 'PopupMenuItem'
+Warning: 'com' has no property 'Rect'
+Warning: 'com' has no property 'YouTubeStatsLogger'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+Warning: includeMouseActivityOf is not a function
+Warning: swapDepths is not a function
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/BEB2Ab0qe-M&rel=1'
+Warning: 'com' has no property '_visible'
+Warning: Reached warning limit of 100
+Warning: Domain i3.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i3.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Reference to undeclared variable, 'cgyuSP'
+Warning: Reference to undeclared variable, 'cgyuSP'
+Warning: Reference to undeclared variable, 'cgyuSP'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'gs'
+Warning: 'gs' has no property 'TweenLite'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'common'
+Warning: 'common' has no property 'Fader'
+Warning: 'com' has no property 'FunctionUtils'
+Warning: 'com' has no property 'IPopupMenuItem'
+Warning: 'com' has no property 'url'
+Warning: 'url' has no property 'Utils'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'SimpleButton'
+Warning: 'com' has no property 'VideoPlaylists'
+Warning: 'com' has no property 'event'
+Warning: 'event' has no property 'EventBroadcaster'
+Warning: 'com' has no property 'players'
+Warning: 'players' has no property 'ui'
+Warning: 'ui' has no property 'ITooltip'
+Warning: 'com' has no property 'Drawing'
+Warning: 'com' has no property 'AbstractXmlFetcher'
+Warning: 'com' has no property 'ProxyStub'
+Warning: 'com' has no property 'VideoSegment'
+Warning: 'com' has no property 'SubtitleFrame'
+Warning: 'com' has no property 'Logger'
+Warning: 'com' has no property 'BaseButton'
+Warning: 'com' has no property 'SpeedControl'
+Warning: Reference to undeclared variable, 'mx'
+Warning: 'mx' has no property 'events'
+Warning: 'events' has no property 'EventDispatcher'
+Warning: Reference to undeclared variable, 'mx'
+Warning: 'com' has no property 'UIEvent'
+Warning: 'com' has no property 'ERROR'
+Warning: 'com' has no property 'Rect'
+Warning: Reference to undeclared property, 'docid'
+-- Probably a case mismatch.
+Warning: curIndexUpdatedHandler is not a function
+Warning: __get__spacingRatio is not a function
+Warning: __get__spacingRatio is not a function
+Warning: 'com' has no property '_x'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property 'naturalWidth'
+Warning: 'naturalWidth' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property 'naturalWidth'
+Warning: 'naturalWidth' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property '_width'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property '_width'
+Warning: '_width' has no property '_x'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property '_x'
+Warning: 'com' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property '_x'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property 'naturalWidth'
+Warning: 'naturalWidth' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property 'naturalWidth'
+Warning: 'naturalWidth' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property '_width'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property '_width'
+Warning: '_width' has no property '_x'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property '_x'
+Warning: 'com' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property '_x'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property 'naturalWidth'
+Warning: 'naturalWidth' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property 'naturalWidth'
+Warning: 'naturalWidth' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property '_width'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property '_width'
+Warning: '_width' has no property '_x'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property '_x'
+Warning: 'com' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property '_x'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property 'naturalWidth'
+Warning: 'naturalWidth' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property 'naturalWidth'
+Warning: 'naturalWidth' has no property '_width'
+Warning: 'com' has no property '_height'
+Warning: 'com' has no property '_width'
+Warning: 'com' has no property '_y'
+Warning: 'com' has no property '_width'
+Warning: '_width' has no property '_x'
+Warning: 'com' has no property '_y'
+Warning: Reached warning limit of 100
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'google'
+Warning: 'google' has no property 'youtube'
+Warning: 'youtube' has no property 'IBroadcaster'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'IMessages'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'GenieMenuThumbnailHolder'
+Warning: 'com' has no property 'TweenLite'
+Warning: Reference to undeclared variable, 'ArrayParam'
+Warning: 'com' has no property 'constants'
+Warning: 'constants' has no property 'EventLabel'
+Warning: 'com' has no property 'FunctionUtils'
+Warning: 'com' has no property 'IVideoControl'
+Warning: 'com' has no property 'ModuleEvent'
+Warning: 'com' has no property 'IPlayerModuleMediator'
+Warning: 'com' has no property 'event'
+Warning: 'event' has no property 'EventBroadcaster'
+Warning: 'com' has no property 'RestRequest'
+Warning: 'com' has no property 'url'
+Warning: 'url' has no property 'YouTubeUtils'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'VideoInformationSmall'
+Warning: 'com' has no property 'PopupMenuItem'
+Warning: 'com' has no property 'Rect'
+Warning: 'com' has no property 'YouTubeStatsLogger'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+Warning: includeMouseActivityOf is not a function
+Warning: swapDepths is not a function
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/O7Cwb_-laMM&hl=en&fs=1'
+Warning: 'com' has no property '_visible'
+Warning: Reached warning limit of 100
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'google'
+Warning: 'google' has no property 'youtube'
+Warning: 'youtube' has no property 'IBroadcaster'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'IMessages'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'GenieMenuThumbnailHolder'
+Warning: 'com' has no property 'TweenLite'
+Warning: Reference to undeclared variable, 'ArrayParam'
+Warning: 'com' has no property 'constants'
+Warning: 'constants' has no property 'EventLabel'
+Warning: 'com' has no property 'FunctionUtils'
+Warning: 'com' has no property 'IVideoControl'
+Warning: 'com' has no property 'ModuleEvent'
+Warning: 'com' has no property 'IPlayerModuleMediator'
+Warning: 'com' has no property 'event'
+Warning: 'event' has no property 'EventBroadcaster'
+Warning: 'com' has no property 'RestRequest'
+Warning: 'com' has no property 'url'
+Warning: 'url' has no property 'YouTubeUtils'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'VideoInformationSmall'
+Warning: 'com' has no property 'PopupMenuItem'
+Warning: 'com' has no property 'Rect'
+Warning: 'com' has no property 'YouTubeStatsLogger'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+Warning: includeMouseActivityOf is not a function
+Warning: swapDepths is not a function
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dFdJbS_gVOs&hl=en'
+Warning: 'com' has no property '_visible'
+Warning: Reached warning limit of 100
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'google'
+Warning: 'google' has no property 'youtube'
+Warning: 'youtube' has no property 'IBroadcaster'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'IMessages'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'GenieMenuThumbnailHolder'
+Warning: 'com' has no property 'TweenLite'
+Warning: Reference to undeclared variable, 'ArrayParam'
+Warning: 'com' has no property 'constants'
+Warning: 'constants' has no property 'EventLabel'
+Warning: 'com' has no property 'FunctionUtils'
+Warning: 'com' has no property 'IVideoControl'
+Warning: 'com' has no property 'ModuleEvent'
+Warning: 'com' has no property 'IPlayerModuleMediator'
+Warning: 'com' has no property 'event'
+Warning: 'event' has no property 'EventBroadcaster'
+Warning: 'com' has no property 'RestRequest'
+Warning: 'com' has no property 'url'
+Warning: 'url' has no property 'YouTubeUtils'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'VideoInformationSmall'
+Warning: 'com' has no property 'PopupMenuItem'
+Warning: 'com' has no property 'Rect'
+Warning: 'com' has no property 'YouTubeStatsLogger'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+Warning: includeMouseActivityOf is not a function
+Warning: swapDepths is not a function
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/dcGia7V_Nyw?rel=1'
+Warning: 'com' has no property '_visible'
+Warning: Reached warning limit of 100
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i4.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i4.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain www.youtube.com does not explicitly specify a meta-policy, but Content-Type of policy file http://www.youtube.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i4.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i4.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+SDK Loader major version = 2
+info SDK Version = 2.11.18
+Loaded from a trusted youtube host: http://s.ytimg.com/yt/swfbin/ad3-vfldfy7rl.swf
+info doublesandboxing is disabled, allowing all domains
+document.referrer = http://bringyourownbigwheel.com/faq/
+document.referrer = http://bringyourownbigwheel.com/faq/
+Loading xlb file for locale - en
+Loaded xlb file for locale - en succeed
+en_US is not supported. Attempting to trim locale.
+Loading xlb file for locale - en
+Loaded xlb file for locale - en succeed
+Warning: Domain googleads.g.doubleclick.net does not explicitly specify a meta-policy, but Content-Type of policy file http://googleads.g.doubleclick.net/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain s2.youtube.com does not explicitly specify a meta-policy, but Content-Type of policy file http://s2.youtube.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+attempted to add unknown field. Name=use_request_token_for_video value=true non-camel_case_key=use_request_token_for_video
+attempted to add unknown field. Name=request_token_chain_length value=100 non-camel_case_key=request_token_chain_length
+VPAID Event received: [Event type="AdLoaded" bubbles=false cancelable=false eventPhase=2]
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'google'
+Warning: 'google' has no property 'ads'
+Warning: 'ads' has no property 'ima'
+Warning: 'ima' has no property 'proxy'
+Warning: 'proxy' has no property 'BidirectionalConnection'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'event'
+Warning: 'event' has no property 'EventDelegate'
+Warning: 'com' has no property 'Proxy'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+VPAID Event received: [Event type="AdStarted" bubbles=false cancelable=false eventPhase=2]
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+Loading http://googleads.g.doubleclick.net/pagead/adview?ai=B7Xpp1ch8T_3dAoaJlAL8x-S7A7rdiKECirLEniiyo77RSJCiYhABGAEg4_uTAzgAUJiF7cgGYMn2-IbIo6AZoAGuj4r_A7IBGGJyaW5neW91cm93bmJpZ3doZWVsLmNvbboBGDQ1MHg1MCw0Njh4NjAsNDgweDcwX3htbMgBBNoBJGh0dHA6Ly9icmluZ3lvdXJvd25iaWd3aGVlbC5jb20vZmFxL4ACAbgCGMACBsgCmqfPBKgDAbADv-yVGOgDsAPoA6cF6AMv9QMAAADB9QMACEAWmAQFoAYE&sigh=GaxlJNeysL8
+Load completed. 1 successful, 0 failed of 1 total
+Not reporting URL, since URL is null.
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+VPAID Event received: [Event type="AdPaused" bubbles=false cancelable=false eventPhase=2]
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+VPAID Event received: [Event type="AdPlaying" bubbles=false cancelable=false eventPhase=2]
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s0.2mdn.net/instream/adsapi_2.swf' tried to access incompatible context 'http://pagead2.googlesyndication.com/pagead/gadgets/overlay/OverlayTemplate.swf'
+[0.12] Enabler: Event: changeInputVariable
+[8.06] Enabler: Event: changeInputVariable
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/-J0YMLYQKj0?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/lBjBTHUgj6Y?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/5oGP1fbWSto?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Reference to undeclared variable, 'cgyuSP'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'google'
+Warning: 'google' has no property 'youtube'
+Warning: 'youtube' has no property 'IBroadcaster'
+Warning: Reference to undeclared variable, 'com'
+Warning: 'com' has no property 'IMessages'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'GenieMenuThumbnailHolder'
+Warning: 'com' has no property 'TweenLite'
+Warning: Reference to undeclared variable, 'ArrayParam'
+Warning: 'com' has no property 'constants'
+Warning: 'constants' has no property 'EventLabel'
+Warning: 'com' has no property 'FunctionUtils'
+Warning: 'com' has no property 'IVideoControl'
+Warning: 'com' has no property 'ModuleEvent'
+Warning: 'com' has no property 'IPlayerModuleMediator'
+Warning: 'com' has no property 'event'
+Warning: 'event' has no property 'EventBroadcaster'
+Warning: 'com' has no property 'RestRequest'
+Warning: 'com' has no property 'url'
+Warning: 'url' has no property 'YouTubeUtils'
+Warning: 'com' has no property 'ui'
+Warning: 'ui' has no property 'VideoInformationSmall'
+Warning: 'com' has no property 'PopupMenuItem'
+Warning: 'com' has no property 'Rect'
+Warning: 'com' has no property 'YouTubeStatsLogger'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+Warning: includeMouseActivityOf is not a function
+Warning: swapDepths is not a function
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+*** Security Sandbox Violation ***
+SecurityDomain 'http://s.ytimg.com/yt/swfbin/cps-vflckjUMI.swf' tried to access incompatible context 'http://www.youtube.com/v/LMbIQ61QJkY?enablejsapi=1&rel=0'
+Warning: 'com' has no property '_visible'
+Warning: Reached warning limit of 100
+[object DemoContainer] getIndexProfile([])
+[object DemoContainer] getIndexProfile: fetching index profiles for ["com.videoegg.demo.providers.QuantcastProvider","com.videoegg.demo.providers.ImplicitProvider","com.videoegg.demo.providers.BlueKaiProvider"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.QuantcastProvider), mapping provider? true, Value profile: {"i":{},"hi":{},"p":{},"g":{},"a":{},"e":{}}
+[object DemoContainer] Provider index profile: {"i":{"otg_nolive":0,"otg_rep":0,"otg_ind":0,"otg_dvr":0,"qcintel":0,"otg_demo":0,"otg_noreg":0,"autogen":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt55":0,"gt25":0,"gt18":0,"gt35":0},"e":{"hisp":0,"asia":0,"afar":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.QuantcastProvider: {"i":{"otg_nolive":0,"otg_rep":0,"otg_ind":0,"otg_dvr":0,"qcintel":0,"otg_demo":0,"otg_noreg":0,"autogen":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt55":0,"gt25":0,"gt18":0,"gt35":0},"e":{"hisp":0,"asia":0,"afar":0}}
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.BlueKaiProvider), mapping provider? false, Value profile: {}
+[object DemoContainer] Provider index profile: {"i":{"otg_nolive":0,"otg_rep":0,"otg_ind":0,"otg_dvr":0,"qcintel":0,"otg_demo":0,"otg_noreg":0,"autogen":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt55":0,"gt25":0,"gt18":0,"gt35":0},"e":{"hisp":0,"asia":0,"afar":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.BlueKaiProvider: {"i":{"otg_nolive":0,"otg_rep":0,"otg_ind":0,"otg_dvr":0,"qcintel":0,"otg_demo":0,"otg_noreg":0,"autogen":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt55":0,"gt25":0,"gt18":0,"gt35":0},"e":{"hisp":0,"asia":0,"afar":0}}
+[object DemoContainer] getIndexProfile: narrowed list of index profiles for ["com.videoegg.demo.providers.QuantcastProvider, indexEnabled? true","com.videoegg.demo.providers.BlueKaiProvider, indexEnabled? true"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.ImplicitProvider), mapping provider? false, Value profile: {"g":{"m":0.4885},"a":{"1824":0.1198,"2534":0.1656,"2544":0.35,"1834":0.2854,"gt25":0.6655,"gt18":0.7853,"gt35":0.4999}}
+[object DemoContainer] Provider index profile: {"i":{"otg_nolive":0,"otg_rep":0,"otg_ind":0,"otg_dvr":0,"qcintel":0,"otg_demo":0,"otg_noreg":0,"autogen":0},"hi":{"100":0},"p":{"all":0},"g":{"m":100,"f":0},"a":{"1824":100,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"4554":0,"1834":100,"gt55":0,"gt25":100,"gt18":100,"gt35":100},"e":{"hisp":0,"asia":0,"afar":0}}
+[object DemoContainer] getIndexProfile, no age in result, using implicit: {"1824":100,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"4554":0,"1834":100,"gt55":0,"gt25":100,"gt18":100,"gt35":100}
+[object DemoContainer] getIndexProfile, no gender in result, using implicit: {"m":100,"f":0}
+[object DemoContainer] getIndexProfile, result: {"g":{"m":100,"f":0},"a":{"1824":100,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"4554":0,"1834":100,"gt55":0,"gt25":100,"gt18":100,"gt35":100}}
+[object PC] Product Initialized ai0153942875eb970b0162fd7e8de6970d_13683cabef9f3fcd5b6e722dae5e03c8
+[object PC] Calling Ad Server ai0153942875eb970b0162fd7e8de6970d_13683cabef9f3fcd5b6e722dae5e03c8
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Ignoring 'secure' attribute in policy file from http://adserver.adtechus.com/crossdomain.xml.  The 'secure' attribute is only permitted in HTTPS and socket policy files.  See http://www.adobe.com/go/strict_policy_files for details.
+Warning: Domain adserver.adtechus.com does not specify a meta-policy.  Applying default meta-policy 'master-only'.  This configuration is deprecated.  See http://www.adobe.com/go/strict_policy_files to fix this problem.
+[object Model] Setting AdModel
+Warning: Domain www.typepad.com does not specify a meta-policy.  Applying default meta-policy 'master-only'.  This configuration is deprecated.  See http://www.adobe.com/go/strict_policy_files to fix this problem.
+Warning: Domain feeds.feedburner.com does not explicitly specify a meta-policy, but Content-Type of policy file http://feeds.feedburner.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+[object TypePadXML]
+Melissa Loves
+In her former life, Melissa was a Juilliard educated actress, unaware of her inherent love for all things design. Cue motherhood and a desire to slow down, and that's when her real passions took over....
+[object Target]
+[object Target] init
+com.videoegg.demo.providers.UserProvider constructor
+[object DemoService] registerProvider:  com.videoegg.demo.providers.UserProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.ExelateProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.QuantcastProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.BlueKaiProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.ImplicitProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.TargusProvider
+[object DemoService] <ctor>, timeout: 0, batches: 6, min response: 6
+... opted in
+[object Target] initDemo
+[object DemoService] load, params null , forceQuery: false
+[object DemoService] ... load, user wants to receive targeting
+[object DemoService] processProviders
+... available and none pending
+[object DemoService] batchRequest, Request size: 6, consecutive Requests: 6
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.UserProvider, remaining requests: 5
+[object DemoService] batchRequest: Loading: com.videoegg.demo.providers.UserProvider
+com.videoegg.demo.providers.UserProvider load [object DemoCookie] null
+[object DemoService] providerComplete com.videoegg.demo.providers.UserProvider
+[object DemoService] Provider request success:  [Event type="com.videoegg.demo.events.ProviderEvent::Complete" bubbles=false cancelable=false eventPhase=2]{_provider=com.videoegg.demo.providers.UserProvider,_message=null}
+[object DemoService] processProviders
+... available and none pending
+[object DemoService] batchRequest, Request size: 5, consecutive Requests: 6
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.ExelateProvider, remaining requests: 4
+[object DemoService] batchRequest: Loading: com.videoegg.demo.providers.ExelateProvider
+[object DemoService] batchRequest, Request size: 4, consecutive Requests: 5
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.QuantcastProvider, remaining requests: 3
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.QuantcastProvider
+[object DemoService] batchRequest, Request size: 3, consecutive Requests: 4
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.BlueKaiProvider, remaining requests: 2
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.BlueKaiProvider
+[object DemoService] batchRequest, Request size: 2, consecutive Requests: 3
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.ImplicitProvider, remaining requests: 1
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.ImplicitProvider
+[object DemoService] batchRequest, Request size: 1, consecutive Requests: 2
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.TargusProvider, remaining requests: 0
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.TargusProvider
+[object DemoService] batchRequest, Request size: 0, consecutive Requests: 1
+[object DemoService] batchRequest, Request size: 0, consecutive Requests: 5
+[object TypePadXML]
+Melissa Loves
+In her former life, Melissa was a Juilliard educated actress, unaware of her inherent love for all things design. Cue motherhood and a desire to slow down, and that's when her real passions took over....
+[object DemoService] timeout trapped
+[object DemoService] handleComplete, pushing out success mesage
+[object DemoContainer] getIndexProfile([])
+[object DemoContainer] getIndexProfile: fetching index profiles for ["com.videoegg.demo.providers.ImplicitProvider","com.videoegg.demo.providers.QuantcastProvider","com.videoegg.demo.providers.BlueKaiProvider"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.QuantcastProvider), mapping provider? true, Value profile: {"i":{},"hi":{},"p":{},"g":{},"a":{},"e":{}}
+[object DemoContainer] Provider index profile: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.QuantcastProvider: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.BlueKaiProvider), mapping provider? false, Value profile: {}
+[object DemoContainer] Provider index profile: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.BlueKaiProvider: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile: narrowed list of index profiles for ["com.videoegg.demo.providers.QuantcastProvider, indexEnabled? true","com.videoegg.demo.providers.BlueKaiProvider, indexEnabled? true"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.ImplicitProvider), mapping provider? false, Value profile: {"g":{"m":0.4885},"a":{"1824":0.1198,"2534":0.1656,"2544":0.35,"1834":0.2854,"gt18":0.7853,"gt35":0.4999,"gt25":0.6655}}
+[object DemoContainer] Provider index profile: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":100,"f":0},"a":{"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile, no age in result, using implicit: {"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100}
+[object DemoContainer] getIndexProfile, no gender in result, using implicit: {"m":100,"f":0}
+[object DemoContainer] getIndexProfile, result: {"g":{"m":100,"f":0},"a":{"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100}}
+[object DemoService] handleComplete, index profile:  {"g":{"m":100,"f":0},"a":{"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100}}
+Warning: Failed to load policy file from http://everything.typepad.com/crossdomain.xml
+*** Security Sandbox Violation ***
+Connection to http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi halted - not permitted from http://adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf
+Error: Request for resource at http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi by requestor from http://core.videoegg.com/[[IMPORT]]/adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf is denied due to lack of policy file permissions.
+*** Security Sandbox Violation ***
+Connection to http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi halted - not permitted from http://adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf
+Error: Request for resource at http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi by requestor from http://core.videoegg.com/[[IMPORT]]/adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf is denied due to lack of policy file permissions.
+[object DemoService] Provider request error: {"service": "off"}
+[object DemoService] processProviders
+... none are available
+[object DemoContainer] getIndexProfile([])
+[object DemoContainer] getIndexProfile: fetching index profiles for ["com.videoegg.demo.providers.QuantcastProvider","com.videoegg.demo.providers.ImplicitProvider","com.videoegg.demo.providers.BlueKaiProvider"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.QuantcastProvider), mapping provider? true, Value profile: {"i":{},"p":{},"hi":{},"g":{},"a":{},"e":{}}
+[object DemoContainer] Provider index profile: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt18":0,"gt25":0,"gt55":0,"gt35":0},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.QuantcastProvider: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt18":0,"gt25":0,"gt55":0,"gt35":0},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.BlueKaiProvider), mapping provider? false, Value profile: {}
+[object DemoContainer] Provider index profile: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt18":0,"gt25":0,"gt55":0,"gt35":0},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.BlueKaiProvider: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt18":0,"gt25":0,"gt55":0,"gt35":0},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getIndexProfile: narrowed list of index profiles for ["com.videoegg.demo.providers.QuantcastProvider, indexEnabled? true","com.videoegg.demo.providers.BlueKaiProvider, indexEnabled? true"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.ImplicitProvider), mapping provider? false, Value profile: {"g":{"m":0.4885},"a":{"1824":0.1198,"2534":0.1656,"2544":0.35,"1834":0.2854,"gt25":0.6655,"gt18":0.7853,"gt35":0.4999}}
+[object DemoContainer] Provider index profile: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":100,"f":0},"a":{"1824":100,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"4554":0,"1834":100,"gt18":100,"gt25":100,"gt55":0,"gt35":100},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getIndexProfile, no age in result, using implicit: {"1824":100,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"4554":0,"1834":100,"gt18":100,"gt25":100,"gt55":0,"gt35":100}
+[object DemoContainer] getIndexProfile, no gender in result, using implicit: {"m":100,"f":0}
+[object DemoContainer] getIndexProfile, result: {"g":{"m":100,"f":0},"a":{"1824":100,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"4554":0,"1834":100,"gt18":100,"gt25":100,"gt55":0,"gt35":100}}
+[object PC] Product Initialized ai0153942875eb970b0162fd7e8de6970d_13683cb75cdeb5bb54b1a29927b16a3f
+[object PC] Calling Ad Server ai0153942875eb970b0162fd7e8de6970d_13683cb75cdeb5bb54b1a29927b16a3f
+Warning: Ignoring 'secure' attribute in policy file from http://adserver.adtechus.com/crossdomain.xml.  The 'secure' attribute is only permitted in HTTPS and socket policy files.  See http://www.adobe.com/go/strict_policy_files for details.
+Warning: Domain adserver.adtechus.com does not specify a meta-policy.  Applying default meta-policy 'master-only'.  This configuration is deprecated.  See http://www.adobe.com/go/strict_policy_files to fix this problem.
+[object Model] Setting AdModel
+Warning: Domain feeds.feedburner.com does not explicitly specify a meta-policy, but Content-Type of policy file http://feeds.feedburner.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+[object TypePadXML]
+Melissa Loves
+In her former life, Melissa was a Juilliard educated actress, unaware of her inherent love for all things design. Cue motherhood and a desire to slow down, and that's when her real passions took over....
+[object TypePadXML]
+Melissa Loves
+In her former life, Melissa was a Juilliard educated actress, unaware of her inherent love for all things design. Cue motherhood and a desire to slow down, and that's when her real passions took over....
+Warning: Domain www.typepad.com does not specify a meta-policy.  Applying default meta-policy 'master-only'.  This configuration is deprecated.  See http://www.adobe.com/go/strict_policy_files to fix this problem.
+Warning: Failed to load policy file from http://everything.typepad.com/crossdomain.xml
+*** Security Sandbox Violation ***
+Connection to http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi halted - not permitted from http://adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf
+Error: Request for resource at http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi by requestor from http://core.videoegg.com/[[IMPORT]]/adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf is denied due to lack of policy file permissions.
+*** Security Sandbox Violation ***
+Connection to http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi halted - not permitted from http://adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf
+Error: Request for resource at http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi by requestor from http://core.videoegg.com/[[IMPORT]]/adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf is denied due to lack of policy file permissions.
+[object Target]
+[object Target] init
+com.videoegg.demo.providers.UserProvider constructor
+[object DemoService] registerProvider:  com.videoegg.demo.providers.UserProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.ExelateProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.QuantcastProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.BlueKaiProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.ImplicitProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.TargusProvider
+[object DemoService] <ctor>, timeout: 0, batches: 6, min response: 6
+... opted in
+[object Target] initDemo
+[object DemoService] load, params null , forceQuery: false
+[object DemoService] ... load, user wants to receive targeting
+[object DemoService] processProviders
+... available and none pending
+[object DemoService] batchRequest, Request size: 6, consecutive Requests: 6
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.UserProvider, remaining requests: 5
+[object DemoService] batchRequest: Loading: com.videoegg.demo.providers.UserProvider
+com.videoegg.demo.providers.UserProvider load [object DemoCookie] null
+[object DemoService] providerComplete com.videoegg.demo.providers.UserProvider
+[object DemoService] Provider request success:  [Event type="com.videoegg.demo.events.ProviderEvent::Complete" bubbles=false cancelable=false eventPhase=2]{_provider=com.videoegg.demo.providers.UserProvider,_message=null}
+[object DemoService] processProviders
+... available and none pending
+[object DemoService] batchRequest, Request size: 5, consecutive Requests: 6
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.ExelateProvider, remaining requests: 4
+[object DemoService] batchRequest: Loading: com.videoegg.demo.providers.ExelateProvider
+[object DemoService] batchRequest, Request size: 4, consecutive Requests: 5
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.QuantcastProvider, remaining requests: 3
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.QuantcastProvider
+[object DemoService] batchRequest, Request size: 3, consecutive Requests: 4
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.BlueKaiProvider, remaining requests: 2
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.BlueKaiProvider
+[object DemoService] batchRequest, Request size: 2, consecutive Requests: 3
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.ImplicitProvider, remaining requests: 1
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.ImplicitProvider
+[object DemoService] batchRequest, Request size: 1, consecutive Requests: 2
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.TargusProvider, remaining requests: 0
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.TargusProvider
+[object DemoService] batchRequest, Request size: 0, consecutive Requests: 1
+[object DemoService] batchRequest, Request size: 0, consecutive Requests: 5
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/lBjBTHUgj6Y?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/-J0YMLYQKj0?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/5oGP1fbWSto?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+[object DemoService] timeout trapped
+[object DemoService] handleComplete, pushing out success mesage
+[object DemoContainer] getIndexProfile([])
+[object DemoContainer] getIndexProfile: fetching index profiles for ["com.videoegg.demo.providers.ImplicitProvider","com.videoegg.demo.providers.QuantcastProvider","com.videoegg.demo.providers.BlueKaiProvider"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.QuantcastProvider), mapping provider? true, Value profile: {"i":{},"hi":{},"p":{},"g":{},"a":{},"e":{}}
+[object DemoContainer] Provider index profile: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.QuantcastProvider: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.BlueKaiProvider), mapping provider? false, Value profile: {}
+[object DemoContainer] Provider index profile: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.BlueKaiProvider: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile: narrowed list of index profiles for ["com.videoegg.demo.providers.QuantcastProvider, indexEnabled? true","com.videoegg.demo.providers.BlueKaiProvider, indexEnabled? true"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.ImplicitProvider), mapping provider? false, Value profile: {"g":{"m":0.4885},"a":{"1824":0.1198,"2534":0.1656,"2544":0.35,"1834":0.2854,"gt18":0.7853,"gt35":0.4999,"gt25":0.6655}}
+[object DemoContainer] Provider index profile: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":100,"f":0},"a":{"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile, no age in result, using implicit: {"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100}
+[object DemoContainer] getIndexProfile, no gender in result, using implicit: {"m":100,"f":0}
+[object DemoContainer] getIndexProfile, result: {"g":{"m":100,"f":0},"a":{"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100}}
+[object DemoService] handleComplete, index profile:  {"g":{"m":100,"f":0},"a":{"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100}}
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+[object DemoService] Provider request error: {"service": "off"}
+[object DemoService] processProviders
+... none are available
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+[object DemoContainer] getIndexProfile([])
+[object DemoContainer] getIndexProfile: fetching index profiles for ["com.videoegg.demo.providers.QuantcastProvider","com.videoegg.demo.providers.ImplicitProvider","com.videoegg.demo.providers.BlueKaiProvider"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.QuantcastProvider), mapping provider? true, Value profile: {"i":{},"p":{},"hi":{},"g":{},"a":{},"e":{}}
+[object DemoContainer] Provider index profile: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt18":0,"gt25":0,"gt55":0,"gt35":0},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.QuantcastProvider: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt18":0,"gt25":0,"gt55":0,"gt35":0},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.BlueKaiProvider), mapping provider? false, Value profile: {}
+[object DemoContainer] Provider index profile: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt18":0,"gt25":0,"gt55":0,"gt35":0},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.BlueKaiProvider: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":0,"f":0},"a":{"1824":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"4554":0,"1834":0,"gt18":0,"gt25":0,"gt55":0,"gt35":0},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getIndexProfile: narrowed list of index profiles for ["com.videoegg.demo.providers.QuantcastProvider, indexEnabled? true","com.videoegg.demo.providers.BlueKaiProvider, indexEnabled? true"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.ImplicitProvider), mapping provider? false, Value profile: {"g":{"m":0.4885},"a":{"1824":0.1198,"2534":0.1656,"2544":0.35,"1834":0.2854,"gt25":0.6655,"gt18":0.7853,"gt35":0.4999}}
+[object DemoContainer] Provider index profile: {"i":{"otg_noreg":0,"otg_dvr":0,"qcintel":0,"autogen":0,"otg_ind":0,"otg_rep":0,"otg_nolive":0,"otg_demo":0},"p":{"all":0},"hi":{"100":0},"g":{"m":100,"f":0},"a":{"1824":100,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"4554":0,"1834":100,"gt18":100,"gt25":100,"gt55":0,"gt35":100},"e":{"asia":0,"afar":0,"hisp":0}}
+[object DemoContainer] getIndexProfile, no age in result, using implicit: {"1824":100,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"4554":0,"1834":100,"gt18":100,"gt25":100,"gt55":0,"gt35":100}
+[object DemoContainer] getIndexProfile, no gender in result, using implicit: {"m":100,"f":0}
+[object DemoContainer] getIndexProfile, result: {"g":{"m":100,"f":0},"a":{"1824":100,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"4554":0,"1834":100,"gt18":100,"gt25":100,"gt55":0,"gt35":100}}
+[object PC] Product Initialized ai0153942875eb970b0162fd7e8de6970d_13683ce102160c8a1354267853135d6d
+[object PC] Calling Ad Server ai0153942875eb970b0162fd7e8de6970d_13683ce102160c8a1354267853135d6d
+Warning: Ignoring 'secure' attribute in policy file from http://adserver.adtechus.com/crossdomain.xml.  The 'secure' attribute is only permitted in HTTPS and socket policy files.  See http://www.adobe.com/go/strict_policy_files for details.
+Warning: Domain adserver.adtechus.com does not specify a meta-policy.  Applying default meta-policy 'master-only'.  This configuration is deprecated.  See http://www.adobe.com/go/strict_policy_files to fix this problem.
+[object Model] Setting AdModel
+Warning: Domain feeds.feedburner.com does not explicitly specify a meta-policy, but Content-Type of policy file http://feeds.feedburner.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain www.typepad.com does not specify a meta-policy.  Applying default meta-policy 'master-only'.  This configuration is deprecated.  See http://www.adobe.com/go/strict_policy_files to fix this problem.
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/5oGP1fbWSto?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/-J0YMLYQKj0?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+[object TypePadXML]
+Melissa Loves
+In her former life, Melissa was a Juilliard educated actress, unaware of her inherent love for all things design. Cue motherhood and a desire to slow down, and that's when her real passions took over....
+[object TypePadXML]
+Melissa Loves
+In her former life, Melissa was a Juilliard educated actress, unaware of her inherent love for all things design. Cue motherhood and a desire to slow down, and that's when her real passions took over....
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/lBjBTHUgj6Y?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+[object Target]
+[object Target] init
+com.videoegg.demo.providers.UserProvider constructor
+[object DemoService] registerProvider:  com.videoegg.demo.providers.UserProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.ExelateProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.QuantcastProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.BlueKaiProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.ImplicitProvider
+[object DemoService] registerProvider:  com.videoegg.demo.providers.TargusProvider
+[object DemoService] <ctor>, timeout: 0, batches: 6, min response: 6
+... opted in
+[object Target] initDemo
+[object DemoService] load, params null , forceQuery: false
+[object DemoService] ... load, user wants to receive targeting
+[object DemoService] processProviders
+... available and none pending
+[object DemoService] batchRequest, Request size: 6, consecutive Requests: 6
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.UserProvider, remaining requests: 5
+[object DemoService] batchRequest: Loading: com.videoegg.demo.providers.UserProvider
+com.videoegg.demo.providers.UserProvider load [object DemoCookie] null
+[object DemoService] providerComplete com.videoegg.demo.providers.UserProvider
+[object DemoService] Provider request success:  [Event type="com.videoegg.demo.events.ProviderEvent::Complete" bubbles=false cancelable=false eventPhase=2]{_provider=com.videoegg.demo.providers.UserProvider,_message=null}
+[object DemoService] processProviders
+... available and none pending
+[object DemoService] batchRequest, Request size: 5, consecutive Requests: 6
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.ExelateProvider, remaining requests: 4
+[object DemoService] batchRequest: Loading: com.videoegg.demo.providers.ExelateProvider
+[object DemoService] batchRequest, Request size: 4, consecutive Requests: 5
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.QuantcastProvider, remaining requests: 3
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.QuantcastProvider
+[object DemoService] batchRequest, Request size: 3, consecutive Requests: 4
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.BlueKaiProvider, remaining requests: 2
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.BlueKaiProvider
+[object DemoService] batchRequest, Request size: 2, consecutive Requests: 3
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.ImplicitProvider, remaining requests: 1
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.ImplicitProvider
+[object DemoService] batchRequest, Request size: 1, consecutive Requests: 2
+[object DemoService] batchRequest: Checking whether we need: com.videoegg.demo.providers.TargusProvider, remaining requests: 0
+[object DemoService] batchRequest: Provider not needed:com.videoegg.demo.providers.TargusProvider
+[object DemoService] batchRequest, Request size: 0, consecutive Requests: 1
+[object DemoService] batchRequest, Request size: 0, consecutive Requests: 5
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+[object DemoService] timeout trapped
+[object DemoService] handleComplete, pushing out success mesage
+[object DemoContainer] getIndexProfile([])
+[object DemoContainer] getIndexProfile: fetching index profiles for ["com.videoegg.demo.providers.ImplicitProvider","com.videoegg.demo.providers.QuantcastProvider","com.videoegg.demo.providers.BlueKaiProvider"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.QuantcastProvider), mapping provider? true, Value profile: {"i":{},"hi":{},"p":{},"g":{},"a":{},"e":{}}
+[object DemoContainer] Provider index profile: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.QuantcastProvider: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.BlueKaiProvider), mapping provider? false, Value profile: {}
+[object DemoContainer] Provider index profile: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile, added index profile for com.videoegg.demo.providers.BlueKaiProvider: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":0,"f":0},"a":{"1824":0,"4554":0,"3554":0,"1317":0,"2534":0,"2544":0,"3544":0,"1834":0,"gt18":0,"gt35":0,"gt55":0,"gt25":0},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile: narrowed list of index profiles for ["com.videoegg.demo.providers.QuantcastProvider, indexEnabled? true","com.videoegg.demo.providers.BlueKaiProvider, indexEnabled? true"]
+[object DemoContainer] getProviderIndexProfile(com.videoegg.demo.providers.ImplicitProvider), mapping provider? false, Value profile: {"g":{"m":0.4885},"a":{"1824":0.1198,"2534":0.1656,"2544":0.35,"1834":0.2854,"gt18":0.7853,"gt35":0.4999,"gt25":0.6655}}
+[object DemoContainer] Provider index profile: {"i":{"otg_demo":0,"otg_nolive":0,"autogen":0,"otg_rep":0,"otg_noreg":0,"otg_ind":0,"qcintel":0,"otg_dvr":0},"hi":{"100":0},"p":{"all":0},"g":{"m":100,"f":0},"a":{"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100},"e":{"asia":0,"hisp":0,"afar":0}}
+[object DemoContainer] getIndexProfile, no age in result, using implicit: {"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100}
+[object DemoContainer] getIndexProfile, no gender in result, using implicit: {"m":100,"f":0}
+[object DemoContainer] getIndexProfile, result: {"g":{"m":100,"f":0},"a":{"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100}}
+[object DemoService] handleComplete, index profile:  {"g":{"m":100,"f":0},"a":{"1824":100,"4554":0,"3554":0,"1317":0,"2534":100,"2544":100,"3544":0,"1834":100,"gt18":100,"gt35":100,"gt55":0,"gt25":100}}
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Failed to load policy file from http://everything.typepad.com/crossdomain.xml
+*** Security Sandbox Violation ***
+Connection to http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi halted - not permitted from http://adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf
+Error: Request for resource at http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi by requestor from http://core.videoegg.com/[[IMPORT]]/adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf is denied due to lack of policy file permissions.
+*** Security Sandbox Violation ***
+Connection to http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi halted - not permitted from http://adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf
+Error: Request for resource at http://everything.typepad.com/.a/6a00d83451c82369e2016303baabb2970d-500wi by requestor from http://core.videoegg.com/[[IMPORT]]/adcontent.videoegg.com/ads/SAYMedia/TypePadHouse/USA/12817/TypePadHouse/spark/310x400/20110822/banner_300x250.swf is denied due to lack of policy file permissions.
+[object DemoService] Provider request error: {"service": "off"}
+[object DemoService] processProviders
+... none are available
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/-J0YMLYQKj0?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/lBjBTHUgj6Y?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/5oGP1fbWSto?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain www.youtube.com does not explicitly specify a meta-policy, but Content-Type of policy file https://www.youtube.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain www.youtube.com does not explicitly specify a meta-policy, but Content-Type of policy file http://www.youtube.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain www.youtube-nocookie.com does not specify a meta-policy.  Applying default meta-policy 'master-only'.  This configuration is deprecated.  See http://www.adobe.com/go/strict_policy_files to fix this problem.
+Warning: Domain www.youtube.com does not explicitly specify a meta-policy, but Content-Type of policy file https://www.youtube.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain www.youtube.com does not explicitly specify a meta-policy, but Content-Type of policy file http://www.youtube.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i3.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i3.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i4.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i4.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain www.youtube.com does not explicitly specify a meta-policy, but Content-Type of policy file https://www.youtube.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain www.youtube.com does not explicitly specify a meta-policy, but Content-Type of policy file http://www.youtube.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i3.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i3.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i4.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i4.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/lBjBTHUgj6Y?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/-J0YMLYQKj0?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/5oGP1fbWSto?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i3.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i3.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i4.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i4.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file http://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain www.youtube.com does not explicitly specify a meta-policy, but Content-Type of policy file http://www.youtube.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/-J0YMLYQKj0?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/5oGP1fbWSto?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+*** Security Sandbox Violation ***
+SecurityDomain 'https://www.youtube-nocookie.com/embed/lBjBTHUgj6Y?rel=0' tried to access incompatible context 'https://s.ytimg.com/yt/swfbin/watch_as3-vflOEZyfL.swf'
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i1.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i1.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.
+Warning: Domain i2.ytimg.com does not explicitly specify a meta-policy, but Content-Type of policy file https://i2.ytimg.com/crossdomain.xml is 'text/x-cross-domain-policy'.  Applying meta-policy 'by-content-type'.

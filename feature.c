@@ -1,1 +1,1 @@
-This is how feature should look after merge
+This is the feature file
