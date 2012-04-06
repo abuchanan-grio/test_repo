@@ -84,6 +84,7 @@ Warning: kill is not a function
 Warning: kill is not a function
 Warning: kill is not a function
 Warning: kill is not a function
+HERE'S SOME TEXT FROM THE PERSONAL BRANCH THAT SHOULD BE PUBLIC
 bigTag() _level0.bigTag1
 bigTag() _level0.bigTag2
 finalStillFrame
