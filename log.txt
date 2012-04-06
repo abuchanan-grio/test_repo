@@ -83,6 +83,7 @@ Warning: kill is not a function
 Warning: kill is not a function
 Warning: kill is not a function
 Warning: kill is not a function
+HERE'S SOME TEXT FROM THE PERSONAL BRANCH THAT SHOULD BE PUBLIC
 bigTag() _level0.bigTag1
 bigTag() _level0.bigTag2
 finalStillFrame
@@ -326,6 +327,7 @@ Warning: 'constants' has no property 'EventLabel'
 Warning: 'com' has no property 'FunctionUtils'
 Warning: 'com' has no property 'IVideoControl'
 Warning: 'com' has no property 'ModuleEvent'
+KHAAAN!!
 Warning: 'com' has no property 'IPlayerModuleMediator'
 Warning: 'com' has no property 'event'
 Warning: 'event' has no property 'EventBroadcaster'
